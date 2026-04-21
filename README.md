@@ -1,5 +1,5 @@
 # Hi, I'm Rhea
----
+
 # 💫 About Me:
 🎓 B.Tech CSE (AI & ML) student at MIT Manipal<br>🐍 Working with Python, NumPy, Pandas & ML frameworks<br>🌱 Always learning & exploring new AI concepts<br>🌍 Based in India
 
